@@ -1,0 +1,14 @@
+.bg-grey{
+    background: rgb(250, 240, 230);
+}
+.img-seccion5{
+    display: inline-block;
+    padding: 15px;
+}
+.bg-red{
+    background: red;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    
+}
